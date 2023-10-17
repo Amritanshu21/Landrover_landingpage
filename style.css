@@ -113,7 +113,7 @@ line-height: 80px;
         display: none;
     }
      #three{
-        display: block;
+        display: flex;
         
     }
     #main img{
