@@ -113,7 +113,7 @@ line-height: 80px;
         border-left: 1px solid white;
     }
     #main img{
- 
+ position:fixed;
        right:38%;
        align-items: center;
 
