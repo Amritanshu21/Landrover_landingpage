@@ -105,11 +105,11 @@ line-height: 80px;
     #nav1 a{
         display: none;
     }
-    #two{
+    i #two{
         display: none;
     }
-    #three{
-        display: block;
+    i #three{
+        display: flex;
         border-left: 1px solid white;
     }
     #main img{
@@ -132,7 +132,7 @@ line-height: 80px;
     padding-bottom: 8px;
     }
     #center h1{
-        font-size: 5vw;
+        font-size: 10vw;
         margin-top: 5vw;
         display: flex;
   align-items:center ;
