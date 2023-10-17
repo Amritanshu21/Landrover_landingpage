@@ -105,10 +105,10 @@ line-height: 80px;
     #nav1 a{
         display: none;
     }
-    i #two{
-        display: none;
+     #two{
+        display: blocl;
     }
-    i #three{
+     #three{
         display: flex;
         border-left: 1px solid white;
     }
